@@ -47,7 +47,7 @@ export default function App({ user }) {
     <div>
       <div>
         <h2>App</h2>
-        <h3>Hi {user.name} - Let's find you a match!</h3>
+        <h3>{`Hi ${user.name} - Let's find you a match!`}</h3>
         <p>You can start swiping again</p>
       </div>
       <div>
