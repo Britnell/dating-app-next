@@ -2,7 +2,7 @@
 
 BRIEF.md
 .env.local
-*-lock.yaml
+pnpm-lock.yaml
 
 # dependencies
 /node_modules
